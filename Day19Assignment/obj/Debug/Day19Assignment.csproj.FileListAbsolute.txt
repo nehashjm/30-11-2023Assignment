@@ -1,0 +1,7 @@
+D:\mphasis Simplilearn\Day19\Day19Assignment\Day19Assignment\bin\Debug\Day19Assignment.exe.config
+D:\mphasis Simplilearn\Day19\Day19Assignment\Day19Assignment\bin\Debug\Day19Assignment.exe
+D:\mphasis Simplilearn\Day19\Day19Assignment\Day19Assignment\bin\Debug\Day19Assignment.pdb
+D:\mphasis Simplilearn\Day19\Day19Assignment\Day19Assignment\obj\Debug\Day19Assignment.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\Day19\Day19Assignment\Day19Assignment\obj\Debug\Day19Assignment.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Day19\Day19Assignment\Day19Assignment\obj\Debug\Day19Assignment.exe
+D:\mphasis Simplilearn\Day19\Day19Assignment\Day19Assignment\obj\Debug\Day19Assignment.pdb
